@@ -36,5 +36,5 @@ VGG16 (Fine-Tuned) - Unfrozen top conv layers + trained	(~97%)
 
   Intermediate Layer Activations
 
-6)Classifying new 
+6)Classifying new images
 
