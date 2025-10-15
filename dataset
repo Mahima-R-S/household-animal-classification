@@ -1,1 +1,16 @@
+Dataset used: https://www.kaggle.com/datasets/tongpython/cat-and-dog/data
+Link: https://www.kaggle.com/datasets/salader/dogs-vs-cats
+Structure:
+cat-and-dog/
+    training_set/
+        training_set/
+           cats/
+           dogs/
+    test_set/
+        test_set/
+           cats/
+           dogs/
+Dataset was uploaded to Google Drive and mounted in Colab:
+train_dir = "/content/drive/MyDrive/dataset/cat-and-dog/training_set/training_set"
+test_dir = "/content/drive/MyDrive/dataset/cat-and-dog/test_set/test_set"
 
